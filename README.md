@@ -1,1 +1,3 @@
-# running_tracker
+# React + TypeScript + Vite
+
+# Running tracker
